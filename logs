@@ -1,0 +1,5 @@
+2024-05-01 23:59:27,220 INFO an info
+2024-05-01 23:59:27,221 WARNING a warning
+2024-05-01 23:59:27,221 ERROR an error
+2024-05-01 23:59:27,221 CRITICAL a message of critical severity
+2024-05-01 23:59:30,566 INFO все работает отлично
